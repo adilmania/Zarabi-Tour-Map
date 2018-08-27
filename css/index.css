@@ -24,7 +24,6 @@ html,body {
   }
   .articles .content p {
       line-height: 1.9;
-      margin: 15px 0;
   }
   .author-image {
       position: absolute;
